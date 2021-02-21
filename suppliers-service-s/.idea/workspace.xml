@@ -29,9 +29,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c247a96-c71f-4e5d-a0dd-7967217fc54e" name="Default Changelist" comment="delete abdo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c247a96-c71f-4e5d-a0dd-7967217fc54e" name="Default Changelist" comment="delete abdo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,6 +117,7 @@
       <workItem from="1612281046857" duration="108000" />
       <workItem from="1613208687242" duration="634000" />
       <workItem from="1613910576135" duration="803000" />
+      <workItem from="1613913860057" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="deleteMe">
       <created>1610802066163</created>
